@@ -6,10 +6,10 @@ function convertValues(){
     const currencyValueToConvert = document.querySelector(".currency-value-to-convert")
     const currencyValueConverted = document.querySelector(".currency-value")
 
-    const dolarToday = 6.18
-    const euroToday = 6.32
-    const libraToday = 7.62
-    const bitconsToday = 595.645
+    const dolarToday = 6.11
+    const euroToday = 6.25
+    const libraToday = 7.45
+    const bitconsToday = 575.194
     
 
 
