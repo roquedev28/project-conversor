@@ -9,7 +9,8 @@ function convertValues(){
     const dolarToday = 6.18
     const euroToday = 6.32
     const libraToday = 7.62
-    const bitconsToday = 594.8768
+    const bitconsToday = 595.645
+    
 
 
     if(currencySelect.value == "dolar"){
